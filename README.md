@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Euer</h1>
 <h3 align="center">A passionate software developer from the Netherlands</h3>
-<img align="right" alt="coding" width="400" src="hhttps://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euer24&label=Profile%20views&color=0e75b6&style=flat" alt="euer24" /> </p>
 
 - 🌱 I’m currently learning **Laravel**
