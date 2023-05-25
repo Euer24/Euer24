@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📫 How to reach me **euer2017@gmail.com**
+- 📫 You can reach me at **euer2017@gmail.com**
 
 - ⚡ Fun fact **I can make good jokes!**
 
